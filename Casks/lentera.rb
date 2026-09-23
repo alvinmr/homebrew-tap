@@ -1,6 +1,6 @@
 cask "lentera" do
-  version "1.0.1"
-  sha256 "55fb5936d353b4db0e7a430ae955d1babf107ba3e2e334f47fa774ca6a6702ac"
+  version "1.1.0"
+  sha256 "c5a2f9b9d54124a8c085fd9c8fa5b6289f7f015599e1b97c70bc6e8fae1a64ea"
 
   url "https://github.com/alvinmr/lentera/releases/download/v#{version}/Lentera-v#{version}-macOS.dmg"
   name "Lentera"
