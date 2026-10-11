@@ -1,6 +1,6 @@
 cask "macfan" do
-  version "0.3.0"
-  sha256 "0e357558c0ccd556e333dbbda19f6b9e0c6cb7ff1083c5fb8c1491f0c2e6bacb"
+  version "0.3.1"
+  sha256 "2e4376c4d504a415e1de487ce8634c491ef30099131cc97ab1fac1907c3ba166"
 
   url "https://github.com/alvinmr/macfan/releases/download/v#{version}/MacFan-v#{version}-macOS.dmg"
   name "MacFan"
